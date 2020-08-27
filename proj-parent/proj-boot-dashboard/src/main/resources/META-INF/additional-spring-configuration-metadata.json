@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "proj",
+  "type": "com.zillion.boot.dashboard.ProjConfig",
+  "description": "A description for 'proj'"
+}]}
